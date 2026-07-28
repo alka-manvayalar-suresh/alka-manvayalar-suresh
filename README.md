@@ -5,7 +5,7 @@ My focus is on building data-driven solutions, developing interactive dashboards
 ### 📚 **About Me**
 
 - 🔭 My recent work: **Predicting Cricket Match Outcomes using Machine Learning**
-- 🌱 Currently improving my skills in **Python**, **Power BI**, and **Tableau**
+- 🌱 Currently improving my skills in **Python**, **SQL**, and **Power BI**
 - 👨‍💻 View all my projects on [**GitHub**](https://github.com/alka-manvayalar-suresh)
 - 📝 Read my publication on [**Springer**](https://link.springer.com/chapter/10.1007/978-981-99-0969-8_6)
 - 📫 Reach me at **alkamanvayalarsuresh@gmail.com**
