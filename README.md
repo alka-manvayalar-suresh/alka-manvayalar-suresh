@@ -7,7 +7,7 @@ My focus is on building data-driven solutions, developing interactive dashboards
 - 🔭 My recent work: **Predicting Cricket Match Outcomes using Machine Learning**
 - 🌱 Currently improving my skills in **Python**, **SQL**, and **Power BI**
 - 👨‍💻 View all my projects on [**GitHub**](https://github.com/alka-manvayalar-suresh)
-- 📝 Read my publication on [**Springer**](https://link.springer.com/chapter/10.1007/978-981-99-0969-8_6)
+- 📝 Read my publication on [**Springer**](https://www.researchgate.net/publication/370975981_Performance_Evaluation_of_Time_Series_Analysis_on_the_Dataset_of_Airline_Passengers_An_Exploratory_Data_Analysis)
 - 📫 Reach me at **alkamanvayalarsuresh@gmail.com**
 - 💼 Learn more about me on [**LinkedIn**](https://linkedin.com/in/alka-manvayalar-suresh-186678193)
 
